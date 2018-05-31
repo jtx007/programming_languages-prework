@@ -18,3 +18,10 @@ def reformat_languages(languages)
    end
    new_hash
 end
+
+def reformat_languages(languages)
+  new_hash = {}
+  languages,each do |style, language|
+
+end
+end    
